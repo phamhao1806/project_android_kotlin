@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/icons8_home"/>
+    <item android:title="Giỏ hàng"
+        android:id="@+id/cartFragment"
+        android:icon="@drawable/ic_nav_cart"/>
+    <item android:title="Tìm kiếm"
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_search"/>
+    <item android:title="Lịch sử"
+        android:id="@+id/historyFragment"
+        android:icon="@drawable/ic_order_history"/>
+    <item android:title="Tôi"
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/baseline_account_box_24" />
+</menu>
